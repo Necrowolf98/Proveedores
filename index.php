@@ -8147,6 +8147,7 @@ textarea.form-control {
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js" integrity="sha384-QJHtvGhmr9XOIpI6YVutG+2QOK9T+ZnN4kzFN1RtK3zEFEIsxhlmWl5/YESvpZ13" crossorigin="anonymous"></script>
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 		<link rel="stylesheet" href="css/style.css">
+    <link rel="icon" type="image/png" href="logo-amerinode.png">
 
 	</head>
 	<nav class="navbar navbar-expand-lg navbar-dark static-top" style="background-image: radial-gradient(circle at 24.57% 52.22%, #c3ddff 0, #80abff 25%, #3c78f2 50%, #0048a1 75%, #001f59 100%);">
@@ -8169,7 +8170,7 @@ textarea.form-control {
   </div>
 </nav>
 
-	<body class="img js-fullheight" style="background-image: url(images/bg-login.png);">
+	<body class="img js-fullheight" style="background-image: url(images/bg-login.jpg);">
 	<section class="ftco-section">
 		<div class="container">
 			<div class="row justify-content-center">
