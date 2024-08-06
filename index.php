@@ -8146,14 +8146,13 @@ textarea.form-control {
 <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.2/dist/umd/popper.min.js" integrity="sha384-q9CRHqZndzlxGLOj+xrdLDJa9ittGte1NksRmgJKeCV9DrM7Kz868XYqsKWPpAmn" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js" integrity="sha384-QJHtvGhmr9XOIpI6YVutG+2QOK9T+ZnN4kzFN1RtK3zEFEIsxhlmWl5/YESvpZ13" crossorigin="anonymous"></script>
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-	
-	<link rel="stylesheet" href="css/style.css">
+		<link rel="stylesheet" href="css/style.css">
 
 	</head>
 	<nav class="navbar navbar-expand-lg navbar-dark static-top" style="background-image: radial-gradient(circle at 24.57% 52.22%, #c3ddff 0, #80abff 25%, #3c78f2 50%, #0048a1 75%, #001f59 100%);">
   <div class="container">
     <a class="navbar-brand" href="#">
-      <img src="images/HK.png" alt="..." height="46">
+      <img src="images/amerinode-logo-slogan.png" alt="..." height="46">
     </a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
@@ -8161,7 +8160,7 @@ textarea.form-control {
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav ms-auto">
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="http://hanaska.com" target="_BLANK">Hanaska</a>
+          <a class="nav-link active" aria-current="page" href="https://amerinode.la" target="_BLANK">Amerinode S.A</a>
         </li>
         
         </li>
@@ -8170,7 +8169,7 @@ textarea.form-control {
   </div>
 </nav>
 
-	<body class="img js-fullheight" style="background-image: url(images/CDHanaska.png);">
+	<body class="img js-fullheight" style="background-image: url(images/bg-login.png);">
 	<section class="ftco-section">
 		<div class="container">
 			<div class="row justify-content-center">
