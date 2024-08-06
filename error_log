@@ -1,0 +1,6 @@
+[13-Aug-2023 19:40:33 America/Guayaquil] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/fernand2/public_html/proyectos.fernandodefaz.com/proveedores/conexion/conexion.php:2
+Stack trace:
+#0 /home/fernand2/public_html/proyectos.fernandodefaz.com/proveedores/conexion/conexion.php(2): mysqli->__construct('localhost', 'root', '', 'proveedores')
+#1 /home/fernand2/public_html/proyectos.fernandodefaz.com/proveedores/index.php(2): include('/home/fernand2/...')
+#2 {main}
+  thrown in /home/fernand2/public_html/proyectos.fernandodefaz.com/proveedores/conexion/conexion.php on line 2
