@@ -1,5 +1,5 @@
 <?php
-	$db = new mysqli("localhost","fernand2_djusr","5xCCf9!jOkFK","fernand2_Proveedores");
+	$db = new mysqli("localhost","anthony","10407","Proveedores");
 	if (mysqli_connect_errno()) {
 		echo "No se puede conectar 🚫";
 	}
