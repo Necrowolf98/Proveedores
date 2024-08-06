@@ -1,6 +1,8 @@
 <?php 
   include('conexion/conexion.php');
   session_start();
+  $añoActual = date("Y");
+
 if (isset($_POST['enviar'])) {
     $usuario=$_POST['username'];
     $clave=$_POST['password'];
@@ -8147,7 +8149,7 @@ textarea.form-control {
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js" integrity="sha384-QJHtvGhmr9XOIpI6YVutG+2QOK9T+ZnN4kzFN1RtK3zEFEIsxhlmWl5/YESvpZ13" crossorigin="anonymous"></script>
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 		<link rel="stylesheet" href="css/style.css">
-    <link rel="icon" type="image/png" href="logo-amerinode.png">
+    <link rel="icon" type="image/png" href="images/logo-amerinode.png">
 
 	</head>
 	<nav class="navbar navbar-expand-lg navbar-dark static-top" style="background-image: radial-gradient(circle at 24.57% 52.22%, #c3ddff 0, #80abff 25%, #3c78f2 50%, #0048a1 75%, #001f59 100%);">
@@ -8216,7 +8218,7 @@ textarea.form-control {
 <footer>
 	    <div class="bg-light py-4">
       <div class="container text-center">
-        <p class="text-muted mb-0 py-2">© 2023 Copyrigth Caterfood Todos los derechos reservados.</p>
+        <p class="text-muted mb-0 py-2"> <?php echo date("Y"); ?> Copyrigth Amerinode S.A Todos los derechos reservados.</p>
       </div>
     </div>
 	</footer>
